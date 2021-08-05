@@ -1,0 +1,23 @@
+{
+  "name": "studies-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaventura1811/studies-graphQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anaventura1811/studies-graphQL/issues"
+  },
+  "homepage": "https://github.com/anaventura1811/studies-graphQL#readme",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
